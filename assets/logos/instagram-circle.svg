@@ -1,0 +1,10 @@
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="instagram-circle" transform="translate(1.000000, 1.000000)" stroke="#F2F2F2">
+            <path d="M28.00003,13 L18.00003,13 C15.23863,13 13.00003,15.2386 13.00003,18 L13.00003,28 C13.00003,30.7614 15.23863,33 18.00003,33 L28.00003,33 C30.76143,33 33.00003,30.7614 33.00003,28 L33.00003,18 C33.00003,15.2386 30.76143,13 28.00003,13 Z" id="Path" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M26.99983,22.3701 C27.12323,23.2023 26.98113,24.0523 26.59363,24.7991 C26.20613,25.5459 25.59293,26.1515 24.84143,26.5297 C24.08993,26.908 23.23833,27.0397 22.40763,26.906 C21.57693,26.7723 20.80963,26.3801 20.21463,25.7852 C19.61973,25.1903 19.22753,24.4229 19.09393,23.5923 C18.96023,22.7616 19.09193,21.91 19.47013,21.1584 C19.84843,20.4069 20.45403,19.7938 21.20083,19.4063 C21.94763,19.0188 22.79763,18.8766 23.62983,19.0001 C24.47873,19.1259 25.26473,19.5215 25.87153,20.1284 C26.47833,20.7352 26.87393,21.5211 26.99983,22.3701 Z" id="Path" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"></path>
+            <line x1="28.50003" y1="17.5002" x2="28.50933" y2="17.5002" id="Path" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"></line>
+            <rect id="Rectangle" stroke-width="2" x="0" y="0" width="46" height="46" rx="23"></rect>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+
+:root {
+  --night-rider: #343434;
+  --jagged-ice: #d4e1df;
+  --matterhorn: #4F4F4F;
+  --black-100: #3F3F3F;
+  --grey-400: #9C9C9C;
+  --grey-500: #606060;
+  --grey-200: #CFCFCF;
+  --steelblue: #525174;
+  --heather-100: #9F91B6;
+  --heather-400: #8F6889;
+  --heather-500: #885A98;
+  --rose-gold: linear-gradient(to right, #FF9090, #FF5793);
+  --shadow-300: 0 2px 20px rgba(0, 0, 0, 0.15); 
+  --error: #FF5E84; 
+  --peach-400: #FF7792;
+}
+
+html, body {
+  padding: 0;
+  margin: 0;
+  font-family: 'Nunito', sans-serif;
+}
+
+.fa-paw:hover{
+  color:white !important;
+}
