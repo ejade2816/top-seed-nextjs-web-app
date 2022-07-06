@@ -58,7 +58,7 @@ export default function Kittens() {
 			>
 				<div style={{ width: 360, height: 360, position: "absolute" }}>
 					{getPentaPosition(5, 200).map((pos, i) => {
-						let x = pos[0] - 36;
+						let x = pos[0] - 40;
 						let y = pos[1] - 40;
 						return (
 							<FontAwesomeIcon
